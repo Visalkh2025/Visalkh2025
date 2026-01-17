@@ -1,6 +1,6 @@
 ### <h1>Hi Dear, I’m Visal</h1>
 🎓 Third Year as a Computer Science student at AUB (ACLEDA University Of Business). <br />
-🧑‍🏫 A Frontend Mobile Development .<br />
+🧑‍🏫 A Software Development .<br />
 💼 I'm looking for a job.<br />
 📬 How to reach me: +855 69 39 83 65 , khemvisal885@gmail.com
 .<br />
