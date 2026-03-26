@@ -2,7 +2,7 @@
 🎓 My major is Computer Science <br />
 🧑‍🏫 A Software Development .<br />
 💼 I'm looking for a job.<br />
-📬 How to reach me: +855 69 39 83 65 , khemvisal885@gmail.com
+📬 How to reach me: khemvisal885@gmail.com
 .<br />
 
 ## 🌐 Socials:
