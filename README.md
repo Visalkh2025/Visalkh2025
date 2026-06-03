@@ -1,7 +1,6 @@
 ### <h1>Hi Dear, I’m Visal</h1>
 🎓 My major is Computer Science <br />
-🧑‍🏫 A Software Development .<br />
-💼 I'm looking for a job.<br />
+🧑‍🏫 A Software Developer .<br />
 📬 How to reach me: khemvisal885@gmail.com
 .<br />
 
